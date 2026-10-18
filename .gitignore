@@ -1,0 +1,18 @@
+# Jupyter & Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Large Model weights
+*.pt
+*.bin
+*.pth
+LSTM.pth
+
+# Large vector files
+*.vec
+
+# Environment
+.env
+venv/
+.venv/
